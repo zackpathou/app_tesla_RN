@@ -4,11 +4,13 @@ TP app react native sur tesla
 ## Screenshots
 
 <img
-		width="600"
+		width="210"
 		alt="Capture 1"
-		src="https://zupimages.net/up/21/51/0lqp.png">
+		src="https://github.com/zackpathou/app_tesla_RN/blob/master/assets/WhatsApp%20Image%202021-11-09%20at%2023.56.37.jpeg">
+    
+   
 
 ## Install
 
 - npm install
-- expo start
+- npm start
