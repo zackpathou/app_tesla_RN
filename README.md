@@ -4,7 +4,7 @@ TP app react native sur tesla
 ## Screenshots
 
 <img
-		width="210"
+		width="600"
 		alt="Capture 1"
 		src="https://zupimages.net/up/21/51/0lqp.png">
 
