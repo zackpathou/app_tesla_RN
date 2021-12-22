@@ -6,7 +6,7 @@ TP app react native sur tesla
 <img
 		width="210"
 		alt="Capture 1"
-		src="https://zupimages.net/viewer.php?id=21/51/0lqp.png">
+		src="https://zupimages.net/up/21/51/0lqp.png">
 
 ## Install
 
