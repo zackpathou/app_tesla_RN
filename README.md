@@ -13,4 +13,4 @@ TP app react native sur tesla
 ## Install
 
 - npm install
-- npm start
+- expo start
